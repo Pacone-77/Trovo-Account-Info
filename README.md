@@ -8,7 +8,7 @@ Name: EuroDrmex <br />
 Title: 🗽 REVOLUCIJA RP - Život je jedna misija u kojoj svaki čovjek mora biti skeman [YU/ENG] 🗽<br />
 Category: Grand Theft Auto V<br />
 Live: OFFLINE<br />
-Lanugage: Bosnian<br />
+Language: Bosnian<br />
 
 
 Example output for accounts with content for mature audience: 
@@ -17,7 +17,7 @@ Name: Peetraaa <br />
 Title: ✊ REVOLUCIJA RP - Petra Johnson Syndicate - Otkucaji srca <br />
 Category: Grand Theft Auto V <br />
 Live: Live <br />
-Lanugage: Croatian <br />
+Language: Croatian <br />
 Adult: 18+   <===== (It contains this field)<br />
 
 
