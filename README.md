@@ -1,5 +1,5 @@
-# Trovo-Account-Info
-Trovo.live (streaming platform) account information:
+# Trovo.live-Account-Info
+Trovo.live account information:
 
 
 Example output: 
