@@ -22,7 +22,7 @@ try:
     print("Title: " + title)
     print("Category: " + category)
     print("Live: " + live)
-    print("Lanugage: " + language)
+    print("Language: " + language)
     print("Adult: " + adult)
 except:
     language = tags[0]
@@ -30,4 +30,4 @@ except:
     print("Title: " + title)
     print("Category: " + category)
     print("Live: " + live)
-    print("Lanugage: " + language)
+    print("Language: " + language)
