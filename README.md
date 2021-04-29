@@ -31,4 +31,4 @@ and thats it =)
 
 Social Media:
 ------------------------
-[Instagram](https://www.instagra.com/seekii__)
+[Instagram](https://www.instagram.com/seekii__)
