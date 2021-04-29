@@ -23,6 +23,8 @@ Adult: 18+   <===== (It contains this field)<br />
 
 How to start?
 ------------------------
+pip install beautifulsoup4<br />
+
 Download project and just run **trovo.py**
 When you run application, you need to input trovo account username
 and thats it =)
