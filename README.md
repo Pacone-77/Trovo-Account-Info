@@ -13,16 +13,11 @@ Lanugage: Bosnian
 
 Example output for accounts with content for mature audience: 
 ------------------------
-Name: Peetraaa
-========================
-Title: ✊ REVOLUCIJA RP - Petra Johnson Syndicate - Otkucaji srca
-========================
-Category: Grand Theft Auto V
-========================
-Live: Live
-========================
-Lanugage: Croatian
-========================
+Name: Peetraaa 
+Title: ✊ REVOLUCIJA RP - Petra Johnson Syndicate - Otkucaji srca 
+Category: Grand Theft Auto V 
+Live: Live 
+Lanugage: Croatian 
 Adult: 18+   <===== (It contains this field)
 
 
