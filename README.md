@@ -4,21 +4,21 @@ Trovo.live (streaming platform) account information:
 
 Example output: 
 ------------------------
-Name: EuroDrmex
-Title: 🗽 REVOLUCIJA RP - Život je jedna misija u kojoj svaki čovjek mora biti skeman [YU/ENG] 🗽
-Category: Grand Theft Auto V
-Live: OFFLINE
-Lanugage: Bosnian
+Name: EuroDrmex <br />
+Title: 🗽 REVOLUCIJA RP - Život je jedna misija u kojoj svaki čovjek mora biti skeman [YU/ENG] 🗽<br />
+Category: Grand Theft Auto V<br />
+Live: OFFLINE<br />
+Lanugage: Bosnian<br />
 
 
 Example output for accounts with content for mature audience: 
 ------------------------
-Name: Peetraaa 
-Title: ✊ REVOLUCIJA RP - Petra Johnson Syndicate - Otkucaji srca 
-Category: Grand Theft Auto V 
-Live: Live 
-Lanugage: Croatian 
-Adult: 18+   <===== (It contains this field)
+Name: Peetraaa <br />
+Title: ✊ REVOLUCIJA RP - Petra Johnson Syndicate - Otkucaji srca <br />
+Category: Grand Theft Auto V <br />
+Live: Live <br />
+Lanugage: Croatian <br />
+Adult: 18+   <===== (It contains this field)<br />
 
 
 How to start?
